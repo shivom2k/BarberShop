@@ -1,4 +1,4 @@
-[![BCH compliance](https://bettercodehub.com/edge/badge/zEndurance/BarberShop?branch=master)](https://bettercodehub.com/)
+[![BCH compliance](https://github.com/shivom2k/BarberShop/blob/main/main.JPG)
 
 # Barber Program
 
