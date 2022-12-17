@@ -1,5 +1,3 @@
-[![BCH compliance]
-
 # Barber Program
 
 A desktop client, written for employees of a barber shop. 
