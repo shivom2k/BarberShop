@@ -1,4 +1,4 @@
-[![BCH compliance](https://github.com/shivom2k/BarberShop/blob/main/main.JPG)
+[![BCH compliance]
 
 # Barber Program
 
@@ -11,7 +11,7 @@ A desktop client, written for employees of a barber shop.
 
 ## Landing Page
 
-![Main](screenshots/main.JPG)
+![Main](https://github.com/shivom2k/BarberShop/blob/main/main.JPG)
 
 
 Requirements:
